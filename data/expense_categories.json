@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "category_name": "Credit Card"
+  },
+  {
+    "id": 2,
+    "category_name": "Bills"
+  },
+  {
+    "id": 3,
+    "category_name": "Utilities"
+  },
+  {
+    "id": 4,
+    "category_name": "Groceries"
+  }
+]
